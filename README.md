@@ -3,7 +3,8 @@
 <h3 align="center">Aspiring Full-Stack Developer | Building Scalable Web Applications | Passionate Developer</h3>
 
 - 🌱 Currently learning **React, Java, MySQL** and modern web development technologies.
-- 🚀 Interested in building **scalable and user-friendly web applications**.
+- 🚀 Interested in building scalable and user-friendly web applications.
+- 🚀 All of my projects are available at **https://github.com/Shivansh-Ahirwar?tab=repositories**
 - 💼 Worked on projects like **TypeQuest, BIS-Sahayak AI and AgriGrow**.
 - 📫 Reach me at **[shivagoliya70@gmail.com](mailto:shivagoliya70@gmail.com)**.
 - 🎓 Pursuing **B.Tech in Computer Science Engineering** at Bansal College of Engineering, Mandideep.
