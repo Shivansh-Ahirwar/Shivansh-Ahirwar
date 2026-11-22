@@ -1,4 +1,4 @@
-<!--<h1 align="center">Hi, I'm Shivansh Ahirwar</h1>
+<h1 align="center">Hi, I'm Shivansh Ahirwar</h1>
 
 <h3 align="center">Aspiring Full-Stack Developer | Building Scalable Web Applications | Passionate Developer</h3>
 
@@ -45,4 +45,4 @@
 <a href="https://github.com/stats-organization/github-stats-extended"><img height="170" src="https://github-stats-extended.vercel.app/api?username=Shivansh-Ahirwar&custom_title=Shivansh%20Ahirwar%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true" alt="Shivansh Ahirwar's GitHub stats"/></a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shivansh-Ahirwar)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shivansh-Ahirwar)](https://git.io/streak-stats) 
